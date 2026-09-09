@@ -1,0 +1,1 @@
+window.SATYAM_GALLERY = [{"src":"./assets/service-1.webp","alt":"Service 1 – Satyam Kumar","width":1101,"height":1536},{"src":"./assets/service-2.webp","alt":"Service 2 – Satyam Kumar","width":1509,"height":1536},{"src":"./assets/service-3.webp","alt":"Service 3 – Satyam Kumar","width":1401,"height":1536}];
